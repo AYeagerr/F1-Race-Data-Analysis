@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://depi.gov.eg/assets/images/proAr.png" alt="DEPI Logo" width="200"/>
-  <img src="https://img.favpng.com/22/1/12/mercedes-amg-petronas-f1-team-2018-fia-formula-one-world-championship-abu-dhabi-grand-prix-logo-red-bull-racing-png-favpng-wRSpGLNDnEAXhmkSryWDJYXqc.jpg" alt="Project Logo" width="200"/>
+  <img src="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.jpg" alt="Project Logo" width="200"/>
 </p>
 
 <h1 align="center">F1 Race Data Analysis</h1>
