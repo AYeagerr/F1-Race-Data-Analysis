@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://depi.gov.eg/assets/images/proAr.png" alt="DEPI Logo" width="200"/>
-  <img src="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.jpg" alt="Project Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" alt="Project Logo" width="200"/>
 </p>
 
 <h1 align="center">F1 Race Data Analysis</h1>
